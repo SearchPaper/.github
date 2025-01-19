@@ -1,0 +1,1 @@
+## Hi there, Lucas Speaking 👋 This is the SearchPaper organization, where I will keep the SearchPaperApi repository and all written clients, as well as any other peripheral repositories that involve the SearchPaper Project.
